@@ -1,0 +1,14 @@
+# Crawler
+requests
+xmltodict
+pymongo[srv]
+python-dotenv
+
+# Analysis
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+konlpy
+koreanize-matplotlib
